@@ -10,6 +10,7 @@
 <br />
 
 ### Programming languages:
+- Pascal
 - C
 - C++
 - Java
