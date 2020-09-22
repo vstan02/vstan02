@@ -31,7 +31,7 @@
 - Back-end frameworks: Express, Laravel
 - Testing frameworks: Mocha, Jest
 - Version control systems: Git
-- Other: TypeScript, OOP 
+- Other: GraphQL, TypeScript, OOP 
 
 [facebook]: https://www.facebook.com/vlad.stan.1829
 [instagram]: https://www.instagram.com/_vstan02
