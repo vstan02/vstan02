@@ -24,7 +24,7 @@
 - MongoDB
 
 ### Web:
-- CSS Preprocessors: SASS
+- CSS Preprocessors: SASS, PostCSS
 - CSS Metodologies: BEM, OOCSS, SMACSS
 - Task runners: Gulp
 - Module loaders: Webpack
@@ -32,7 +32,7 @@
 - Back-end frameworks: Express, Laravel
 - Testing frameworks: Mocha, Jest
 - Version control systems: Git
-- Other: GraphQL, TypeScript, OOP 
+- Others: REST, GraphQL, TypeScript, OOP 
 
 [facebook]: https://www.facebook.com/vlad.stan.1829
 [instagram]: https://www.instagram.com/_vstan02
