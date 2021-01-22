@@ -18,7 +18,7 @@
 - JavaScript
 - PHP
 - Python
-- Assembly (NASM, FASM)
+- Assembly (NASM)
 
 ### Databases:
 - MySQL
