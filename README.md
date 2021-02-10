@@ -1,7 +1,5 @@
 ### Hi there, I'm Vlad 👋
 
-## I'm a Full Stack JavaScript Developer!
-
 ### Connect with me:
 [<img align="left" alt="Vlad Stan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Stan Vlad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
