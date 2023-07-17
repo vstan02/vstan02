@@ -21,6 +21,7 @@
 ### Databases:
 - MySQL
 - MongoDB
+- Postgres
 
 ### Web:
 - CSS Preprocessors: SASS, PostCSS
