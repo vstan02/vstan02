@@ -11,9 +11,11 @@
 - Pascal
 - C
 - C++
+- Clojure
 - Java
 - Rust
 - JavaScript
+- Scala
 - PHP
 - Python
 - Assembly (NASM)
@@ -29,7 +31,7 @@
 - Task runners: Gulp
 - Module loaders: Webpack
 - Front-end frameworks: React, Vue, Svelte
-- Back-end frameworks: Express, Laravel
+- Back-end frameworks: Express
 - Testing frameworks: Mocha, Jest
 - Version control systems: Git
 - Others: REST, GraphQL, TypeScript, OOP 
